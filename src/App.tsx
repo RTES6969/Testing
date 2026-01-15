@@ -11,6 +11,7 @@ function App() {
      <p>
       Testtest
      </p>
+     <div>Testing the UI</div>
     </>
   )
 }
