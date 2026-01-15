@@ -9,8 +9,9 @@ function App() {
   return (
     <>
      <p>
-      Cool!
+      Testtest
      </p>
+     <div>Testing the UI</div>
     </>
   )
 }
